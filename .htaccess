@@ -1,0 +1,6 @@
+DirectoryIndex welcome.php
+
+SetEnv host "localhost"
+SetEnv uname "root"
+SetEnv pass ""
+SetEnv dbname "introhtaccess"
